@@ -7,6 +7,10 @@ header {
     padding: 8px;
     border: 3px solid black;
 }
+header.img {
+    border: 3px solid white;
+
+}
 
 main {
     padding: 8px;
