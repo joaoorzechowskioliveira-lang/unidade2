@@ -11,7 +11,7 @@ header {
 img {
     width: 80px;
     height: 80px;
-    
+    display: flex;
 
 
 }
@@ -19,5 +19,6 @@ img {
 main {
     padding: 8px;
     text-align: center;
+    display: flex;
 
 }
